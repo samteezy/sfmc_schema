@@ -14,3 +14,5 @@ I build the schema using [dbdesigner.net](https://www.dbdesigner.net/) in a "gen
 Foreign keys, primary keys, unique fields, etc have been identified to the best of my knowledge offhand. I haven't tested it completely yet. If anything is off, please submit a pull request or open an issue and I will make updates as soon as I can get to it.
 
 ![schema](https://user-images.githubusercontent.com/879186/163687237-75769809-3c77-4b22-9de4-839c6e3a7a10.png)
+
+If you found this, and you're good with Marketing Cloud and you want to join a great consulting team, hit me up.
