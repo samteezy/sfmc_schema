@@ -1,6 +1,6 @@
 # Salesforce Marketing Cloud System Views Schema
 
-This repo contains a set of scripts for your favorite database type if it's one of the following:
+This repo contains a database file for your favorite database type if it's one of the following:
 
 * MSSQL
 * MySQL
