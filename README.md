@@ -1,4 +1,4 @@
-# sfmc_schema
+# Salesforce Marketing Cloud System Views Schema
 
 This repo contains a set of scripts for your favorite database type if it's one of the following:
 
